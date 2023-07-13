@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Stock Price Prediction"
+---
+
+
+
 {% highlight ruby%}
 ###########################################################
 #                    Advanced Programming in R

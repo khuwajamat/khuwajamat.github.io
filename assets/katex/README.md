@@ -1,22 +1,28 @@
----
-title: "Duae Mariam Work Protfolio"
-layout: post
----
-## I have been working in reporting or MM Pakistan.
 
-## Currently I am a fulltime student in the department of Data Science and Business Analytics.
+# duae-marriam.github.io
+## Portfotio of work
+### Professional CV Portfolio
 
-## Throughout, my career, I have been involved in projects such as
+# Introduction
+This repository is going to be used as a personal achievements repository, showcasing my work across different domains in Data Analytics / Data Science Field. I am extremely enthusiastic about and an eternal student of the field of Data Science.
 
-Expense record management
+# I hold a Master in program Data Science and Business Analytics from the University of Warsaw. I am especially inclined towards using my Data Science Skills towards their application in Financial areas.
 
-Issuing Vouchers for customers
+## Finance Professional and Data Analyst | Business Intelligence Analyst
+## Skilled in: **Python | R | SQL | Power BI | Tableau | Machine Learning**
 
-Record management
 
-Social Media Marketing
+Just check this website and my CV this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-As part of my studies, at University of Warsaw, I have been working in several Technical projects and participated in competitions to create and manage the databases as well as source and enrich the quality of required data elements, which are part of studies in Data Sciecne Program at UW.
+## Features
 
-This website is a personal project of mine, which helps me articulate my objectives and work ethic, as well as showcase my technical skills and expertise.
-The website helps me create an online presense and motivates me to create my data analytics exercises as such.
+ - supports dark mode on macOS Mojave
+ - optional sidebar
+ - MathJax support
+ - no external ressources
+ - included archive page
+ - supports pagination
+ - feed generation
+ - responsive
+ - syntax highlighting
+ - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)

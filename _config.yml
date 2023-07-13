@@ -18,7 +18,10 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home Page", icon: home}
   - {file: "README.md", title: "About me", icon: About me}
-
+  - {file: "_posts/Stock_Price_Prediction.md", title: "Stock Price Prediction"}
+  - {file: "_posts/newborns_ML_Final_project.md", title: "Machine_Learning_Analysis_newborns"}
+  - {file: "_posts/Economic_aspects_of_immigrants.md", title: "Economic_aspects_of_Migration"}
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:duamariam@gmail.com"}
   - {title: Linkedin, icon: github, url: "https://www.linkedin.com/in/duae-mariam-khuwaja-740a861b2/"}

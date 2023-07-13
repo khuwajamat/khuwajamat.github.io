@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Machine Learning Newborns Data Modelling"
+---
+
 {% highlight ruby %}
 ###########################################################
 #                    Machine Learning 1             

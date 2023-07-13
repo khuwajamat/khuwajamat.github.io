@@ -1,8 +1,12 @@
+---
+layout: default
+title: "Economic_aspects_of_immigrants (Ukraine Migration 2022-2023)"
+---
+
 {% highlight ruby %}
 #####################################
----
-Title Economic_aspects_of_immigrants (Ukraine Migration 2022-2023)
----
+
+
 
 ###
 install.packages("WDI")

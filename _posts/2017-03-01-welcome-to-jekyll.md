@@ -1,24 +1,56 @@
 ---
-title: "Welcome to Jekyll"
+title: "Duae Mariam Work Protfolio"
 layout: post
 ---
+##I have been working in reporting or MM Pakistan.
+##Currently I am a fulltime student in the department of Data Science and Business Analytics
+##Throughout, my career, I have been involved in projects such as
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Expense record management
+Issuing Vouchers for customers
+Record management
+Social Media Marketing
 
+As part of my studies, at University of Warsaw, I have been working in several Technical projects and participated in competitions to create and manage the databases as well as source and enrich the quality of required data elements, which are part of studies in Data Sciecne Program at UW.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This website is a personal project of mine, which helps me articulate my objectives and work ethic, as well as showcase my technical skills and expertise.
+The website helps me create an online presense and motivates me to create my data analytics exercises as such.
 
-Jekyll also offers powerful support for code snippets:
-
+I will highlight code as this. and in each project where i have coworked with my colleagues, the reference is give as below
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+###########################################################
+#                    Advanced Programming in R/ Python
+#                    academic year 2022/2023                 
+#                       Duae Mariam 
+#                       Gizem Guleli   
+########################################################### 
+
+
+# Project Submission                                   
+########################################################### 
+#####################################
+#Loading of libraries
+
+library("R6")
+library(Rcpp)
+library(rbenchmark)
+
+#####################################
+#USE OF R6 to create a desired object type "class"
+
+
+Stock_class <- R6Class("Stock_class",
+                       public = list(
+                         Stock_name = NULL, # we need to specify default values here
+                         Price = NULL,
+                         Dividend = NULL,
+                         Volatility = NULL,
+                         Traded_Currency = "USD",
+                         RFree = 0.05,
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out my latest CV here: 
+[Duae Mariam CV]: https://drive.google.com/file/d/1Vfch03QI-grwxsEOg8zszlaF7fhsD97I/view?usp=sharing
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stock_Price_Prediction"
+title: "Stock Prediction"
 ---
 
 {% highlight ruby %}

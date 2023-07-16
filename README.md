@@ -1,12 +1,13 @@
-
-# duae-marriam.github.io
+#khwuajamat.github.io
+#Abdul Mateen
+#Business Analyst at J P Morgan
 ## Portfotio of work
 ### Professional CV Portfolio
 
 # Introduction
-This repository is going to be used as a personal achievements repository, showcasing my work across different domains in Data Analytics / Data Science Field. I am extremely enthusiastic about and an eternal student of the field of Data Science.
+This repository is going to be used as a personal achievements repository, showcasing my work across different domains in Quantitative Finance / Data Science Field. I am extremely enthusiastic about and an eternal student of the fields.
 
-# I hold a Master in program Data Science and Business Analytics from the University of Warsaw. I am especially inclined towards using my Data Science Skills towards their application in Financial areas.
+# I hold a Master in program Quantitative Finance from the University of Warsaw. I am especially inclined towards using my Data Science Skills towards their application in Financial areas.
 
 ## Finance Professional and Data Analyst | Business Intelligence Analyst
 ## Skilled in: **Python | R | SQL | Power BI | Tableau | Machine Learning**

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Economic_aspects_of_immigrants (Ukraine Migration 2022-2023)"
 ---
 

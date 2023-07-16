@@ -17,4 +17,4 @@ This repository is going to be used as a personal achievements repository, showc
   - {title: Mail, icon: envelope, url: "mailto:duamariam@gmail.com"}
   - {title: Linkedin ,  url: "https://www.linkedin.com/in/duae-mariam-740a861b2"}
   - {title: Github, icon: github, url: "https://github.com/duae-marriam"}
-
+  - {title: Latest CV, url: "https://drive.google.com/file/d/1Vfch03QI-grwxsEOg8zszlaF7fhsD97I/view?usp=sharing"}

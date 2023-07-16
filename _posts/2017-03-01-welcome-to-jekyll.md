@@ -1,20 +1,19 @@
 ---
-title: "Duae Mariam Work Protfolio"
+title: "Abdul Mateen Work Protfolio"
 layout: post
 ---
-## I have been working in reporting or MM Pakistan.
+## I have been working in Regulatory Reporting or J P Morgan Chase.
 
-## Currently I am a fulltime student in the department of Data Science and Business Analytics.
+## I am also a graduate of Quantitative Finance.
 
 ## Throughout, my career, I have been involved in projects such as
+Regulatory Reporting
+
+Fund Accounting
 
 Expense record management
 
-Issuing Vouchers for customers
-
-Record management
-
-Social Media Marketing
+IT operations Support
 
 As part of my studies, at University of Warsaw, I have been working in several Technical projects and participated in competitions to create and manage the databases as well as source and enrich the quality of required data elements, which are part of studies in Data Sciecne Program at UW.
 
@@ -26,8 +25,7 @@ I will highlight code as this. and in each project where i have coworked with my
 ###########################################################
 #                    Advanced Programming in R/ Python
 #                    academic year 2022/2023                 
-#                       Duae Mariam 
-#                       Gizem Guleli   
+#                          
 ########################################################### 
 
 

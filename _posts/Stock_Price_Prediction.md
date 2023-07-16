@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Stock Price Prediction"
+title: "Stock_Price_Prediction"
 ---
 
-
-
-{% highlight ruby%}
+{% highlight ruby %}
 ###########################################################
 #                    Advanced Programming in R
 #                    academic year 2022/2023                 

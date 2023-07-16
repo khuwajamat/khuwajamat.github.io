@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.html", title: "Home Page", icon: home}
-  - {file: "readme.md", title: "About me", icon: About me}
-  - {file: "Stock_Price_Prediction.md", title: "Stock Price Prediction"}
-  - {file: "newborns_ML_Final_project.md", title: "Machine_Learning_Analysis_newborns"}
-  - {file: "Economic_aspects_of_immigrants.md", title: "Economic_aspects_of_Migration"}
+  - {file: "README.md", title: "About me", icon: About me}
+  - {file: "https://github.com/khuwajamat/khuwajamat.github.io/blob/master/_posts/stock_price_prediction.md", title: "Stock Price Prediction"}
+  - {file: "https://github.com/khuwajamat/khuwajamat.github.io/blob/master/_posts/newborns_ML_Final_project.md", title: "Machine_Learning_Analysis_newborns"}
+  - {file: "https://github.com/khuwajamat/khuwajamat.github.io/blob/master/_posts/2023-02-05-Economic_aspects_of_immigrants.md", title: "Economic_aspects_of_Migration"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mateenabdul020@gmail.com"}

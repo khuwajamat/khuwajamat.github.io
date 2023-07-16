@@ -46,7 +46,7 @@ UN = Net official flows from UN agencies, UNHCR (current US$)	DT.NFL.UNCR.CD
 SAFETY = Coverage of social safety net programs (% of population)	per_sa_allsa.cov_pop_tot
 NEX = Exports of goods and services (% of GDP) 'NE.EXP.GNFS.ZS
 NIMP =Imports of goods and services (% of GDP)'NE.IMP.GNFS.ZS'
-INV =  "Foreign direct investment, net inflows (% of GDP) "BX.KLT.DINV.WD.GD.ZS"
+INV =  "Foreign direct investment", net inflows (% of GDP) "BX.KLT.DINV.WD.GD.ZS"
 
 ```{r}
 

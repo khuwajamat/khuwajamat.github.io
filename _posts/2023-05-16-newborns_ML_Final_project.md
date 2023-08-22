@@ -8,8 +8,7 @@ title: "Machine Learning Newborns Data Modelling"
 #                    Machine Learning 1             
 #                 NEWBORNS_DATASET   
 #                  Regression Models
-#                 academic year 2022/2023                 
-#                 Duae Mariam (455855)                        #
+#                 academic year 2019/20                      #
 ########################################################### 
 
 

@@ -6,9 +6,7 @@ title: "Stock Prediction"
 {% highlight ruby %}
 ###########################################################
 #                    Advanced Programming in R
-#                    academic year 2022/2023                 
-#                       Duae Mariam (455855)
-#                       Gizem Guleli (449872)   
+#                    academic year 2019/20   
 ########################################################### 
 
 
